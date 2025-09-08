@@ -1,1 +1,9 @@
 slappy.txt
+secret/
+build
+*.exe
+notsosecret/*.exe
+secret*
+**/goober
+**/notsosecret/superobvioussecret.txt
+notsosecret/**/text.txt
